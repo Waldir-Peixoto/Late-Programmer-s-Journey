@@ -28,4 +28,18 @@ https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf
 https://ubiquity.acm.org/article.cfm?id=1922682
 https://www.youtube.com/watch?v=YVEUOHw3Qb8
 
+CURSO DE GITHUB
+
+Comandos
+
+git clone link -> acrescenta o projeto na maquina
+
+git add . -> acrescenta qualquer arquivo novo no repositório local
+git commit -m "informação sobre a mudança" -> coloca o arquivo no repositório local e o atualiza. 
+
+git push origin main - coloca todos os commits e alterações na nuvem(github)
+
+
+CURSO DE INTRODUÇÃO A HTML 5 e CSS3
+
 
