@@ -1,0 +1,31 @@
+Caderno de Anotações Bootcamp Philips
+
+CURSO DE PENSAMENTO COMPUTACIONAL
+
+Capacidade de abstração de objetos, decomposição de problemas, reconhecimento de padrões e algoritmos. 
+Estruturas de dados e algoritmos – Estudar os mais adequados para cada tipo de situação. Percebe-se, então, que as duas disciplinas são essenciais. 
+Como construir um algoritmo?
+1-Compreensão do problema 
+2-Definição de dados de entrada
+3-Definir processamento
+4-Definir dados de saída
+5-Utilizar um método de construção
+6-Teste e diagnóstico
+Metodos de construção
+1-Narrativa – utilização da linguagem natural
+2-Fluxograma – Utilização de símbolos pré-definidos
+3-Pseudocódigo – Portugal
+Busca Binária – 
+Passo 1 – Ordenar o vetor
+Passo 2 – Módulo de L/2
+Passo 3 – Acessar estrutura
+Passo 4 – Comparar valores
+Passo 5 – Repita até encontrar o número
+Passo 6 – Imprima “Busca bem sucedida”
+
+Links para verificar depois
+https://www.cs.cmu.edu/~CompThink/resources/TheLinkWing.pdf
+https://ubiquity.acm.org/article.cfm?id=1922682
+https://www.youtube.com/watch?v=YVEUOHw3Qb8
+
+
