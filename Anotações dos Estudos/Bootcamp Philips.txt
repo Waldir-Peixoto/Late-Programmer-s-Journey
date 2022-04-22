@@ -42,4 +42,19 @@ git push origin main - coloca todos os commits e alterações na nuvem(github)
 
 CURSO DE INTRODUÇÃO A HTML 5 e CSS3
 
+HTML - Criado por Tim Berner Lee
+
+Estrutura básica
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta>
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+Criação de uma estrutura básica de um site. 
+
 

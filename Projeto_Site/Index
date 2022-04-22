@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Existencial Crisis </title>
+        <style>
+            h1 {
+                font-family: Arial;
+                font-size: 30pt;
+                color: blue;
+                text-shadow: 2px 2px 2px black;
+            }
+
+            p {
+                text-align: justify;
+                text-indent: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="interface">
+            <header id="cabecalho">
+                <hgroup>
+                    <h1>Programming life</h1>
+                    <h2>Journey of a man in his tentative of programming a new life</h2>
+                </hgroup>
+                <img id="icone" src="LOCALIZAÇÃO DA IMAGEM" />
+                <nav id="menu">
+                    <h1>Menu Principal</h1>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="tips.html">Tips!</a></li>
+                        <li><a href="bullshit.html">Bullshit</a></li>
+                        <li><a href="foods.html">Hungry</a></li>
+                        <li><a href="philosophy.html">Mental workout</a></li>
+                        <li><a href="programming.html">Programming trials</a></li>
+                        <li><a href="singularity.html">Tech Revolution</a></li>
+                        <li><a href="Brazil.html">Politics and Economics</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <section id="corpo">
+                <article id="artigo-principal">
+                    <header id="cabecalho-artigo">
+                        <hgroup>
+                            <h3>Life isn't easy!</h3>
+                            <h1>The begining of the crisis</h1>
+                            <h2>To eat or go to the gym?</h2>
+                            <h3>To buy a motorcicle, or to learn computer programming?</h3>
+                        </hgroup>
+                    </header>
+                    <h2> What am i doing with my life?</h2>
+                    <p> If you are too young to question that to yourself, please don't read further. It's embarassing to me trying to explain something that only someone passing through a existencial crisis can feel. Its like explaining hemorroids to someone
+                        that never had. This website is part of the superation of a dificult fase of a human being that is inexorable to all of us. You will suffer from this, sooner or later!</p>
+                    <h2> I developed this website in my thirties! </h2>
+                        <p> I believe that the age mentioned is self explaining. It's like saying that i have 15 years old and am in my puberty. If you say that is in your thirties there is no denying that you have a existencial crisis in progress. Don't deny it,
+                            this only make the things worse!</p>
+        
+                    <h1>So what is your purpose? Trow it!</h1>
+                        <p> This is a website about programming and tecnology, or at least it was suposed to be. The matter of the fact is that i am a newbie on the subject, because i was a lawyer until my thirties (fuck you existencial crisis), but now i am studying
+                            computer science! Don't ask me why, again! </p>
+        
+                    <h1> Am i losing my time reading all of this? </h1>
+                        <p> Probably yes! But since you are in the midle you already losed it, so there isn't any problem if you continue! The only things i will show that has some value are my cat fotografies anyway!</p>
+                </article>
+            </section>
+            <aside id="lateral">
+                <h1> Who am I? </h1>
+            <p> Just call me W.P. I don't like unecessary expositure. Being on a existencial crisis is enough without everybody asking me if i really am suffering of this condition! On the year of 2020, i am 32 years old, have a wife, a cat and a 10 years
+                old son. Already was a lawyer, nowadays a legal assistent on the federal prosecutor office, but changing carrear as a man nowadays in his thirties should do! I am from Brazil, but i choose to write in english for practice, since the universal
+                tech language seems to be english nowadays. (But i am trying to learn mandarin. We never know the future!)</p>
+            <h2> How this website is organized </h2>
+            <p> This website is structured in 7 (seven) parts. On 'Tips' i will trow some things i learned that facilitated my life on these few years. On 'Bullshit', i will write some of things about myself, as well as everything that doesn't include in
+                the other parts. On 'Hungry' i will post some of the foods i cooked and eated, because i like to eat a lot. On the 'Mental workout', there will be some philosofical theories i liked, even if i didn't understood it well. On 'Programming
+                Trials' i will show my progress in the learning of these subject. On 'Tech Revolution' i will comment about technology and the impacts of the upcoming changes. The most important part of my website are my Cat's Fotos, wich serve as the
+                click bait.</p>
+            </aside>
+
+            <footer id="rodape">
+                <p> Copyright - i don't have Facebook | Twitter | Instagram (reason? i am boring as hell) </p>
+            </footer>
+        </div>
+    </body>
+</html>
