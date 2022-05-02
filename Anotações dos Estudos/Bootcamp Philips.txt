@@ -370,3 +370,4 @@ Utilizando bootstrap
 OBS.: Site para selecionar o Código Hexadecimal de cores: https://htmlcolors.com/
 
 Para personalizar os elementos, basta ir fazendo a referenciação no style.css, com a identificação dos id e classes a que a alteração é aplicada.m 
+
