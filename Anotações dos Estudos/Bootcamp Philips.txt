@@ -349,3 +349,24 @@ Max-height
 Margin
 Text align(left, right, center justify)
 
+
+
+CURSO DE BOOTSTRAP
+
+
+
+Framework para desenvolvimento de sites responsivos
+O Botstrap divide a tela em um container e 12 colunas.
+Bootstrap seria, portanto, um conjunto de estilos para classes e elementos.  
+
+Utilizando bootstrap
+
+1)Baixar o Bootstrap no site getbootstrap.com
+2)Descompactá-lo na pasta do site. 
+3)Criar um link de referencia ao arquivo bootstrap.mini.css no metadados do site (gead)
+4)Procurar algum exemplo de elemento do site a ser construido na documentação do site do bootstrap.
+5) Ir colando o código da documentação. 
+
+OBS.: Site para selecionar o Código Hexadecimal de cores: https://htmlcolors.com/
+
+Para personalizar os elementos, basta ir fazendo a referenciação no style.css, com a identificação dos id e classes a que a alteração é aplicada.m 
