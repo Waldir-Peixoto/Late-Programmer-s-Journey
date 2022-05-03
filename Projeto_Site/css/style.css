@@ -4,8 +4,15 @@
 
 .historia {
     background-color: #8181F7
+
 }
 
 .margin {
-    padding-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.conteudo {
+    background-color: grey;
+    
 }
