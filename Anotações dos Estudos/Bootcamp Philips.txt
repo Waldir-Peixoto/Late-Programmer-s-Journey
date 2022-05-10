@@ -475,9 +475,21 @@ FLEX-SHRINK
 
 FLEX 
 Esta propriedade é um atalho ou abreviação de escrita para as propriedades: grow, shrink e basis. 
+Ex.: flex: 1 0 auto; (significa que o grow é 1, o shrink é 0 e o basis é auto. 
 
+ORDER 
+Propriedade relacionada à ordenação dos itens
 
+ALIGN SELF
+É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item. 
 
+Valores possíveis:
+auto: valor padrão, irá respeitar a definição de align-items do container
+flex-start: ao início do container
+flex-end: ao final do container
+center: relativo ao centro de acordo com o eixo. 
+stretch: ocupa todo o espaço relativo
+baseline: utiliza a linha base da tipografia
 
 1) Javascript for dummys
 3) c
@@ -485,3 +497,39 @@ Esta propriedade é um atalho ou abreviação de escrita para as propriedades: g
 MAXMILLIAN SCHWARZMULLER
 PYTHON AND 
 AWS CERTIFICATION - CLOUD COMPUTING - Duas certificações a serem conseguidas - SOLUCTIONS ARCHITECT E DEVELOPER 
+
+
+CURSO DE JAVASCRIPT
+
+SINTAXE BÁSICA JAVASCRIPT 
+
+O que é o Javascript?
+É uma linguagem de programação de alto nivel, que integra o desenvolvimento de apps e paginas web.
+Para que serve?
+Para criar scripts dinamicos que realizam a interação de apps com as paginas web. 
+Onde usar?
+No desenvolvimento de paginas web. 
+
+Boas praticas:
+Externar o arquivo script
+deixa-lo ao final do body
+Como externar?
+<script src="script.js"></script>
+
+Como funciona a tipagem em Javascript?
+O que são variáveis e como declarar?
+Quais as diferenças entre atribuição, comparação e comparação idêntica?
+Operadores aritméticos relacionais e lógicos. 
+A tipagem funciona como uma regra de uso de dados, quanto mais forte for a tipagem, mas obrigatória é a declaração do tipo de dado. 
+A tipagem em Javascript é fraca, a declaração dos dados acontece de modo dinamico. 
+Ex.: ao criarmos uma variavel em aspas, o Javascript já converte para string. 
+
+Tipos primitivos 
+As variaveis em Javascript podem guardar tipos de dados que chamamos de tipos primitivos. 
+Variaveis podem guardar valores dos tipos: Boolean; null; undefined; number, string, array, Object, Function. 
+
+
+
+
+
+
