@@ -528,8 +528,83 @@ Tipos primitivos
 As variaveis em Javascript podem guardar tipos de dados que chamamos de tipos primitivos. 
 Variaveis podem guardar valores dos tipos: Boolean; null; undefined; number, string, array, Object, Function. 
 
+O que são variaveis?
+São dados que variam. 
+Como se declaram?
 
+var: escopo global e local, pode ter seu valor alterado, se não tiver um valor inicial será tratada como null; 
+let: escopo local de bloco, pode ter seu valor alterado, se não tiver um valor inicial será tratada como null;
+const: escopo local de bloco, somente leitura, o valor inicial é obrigatório e não pode ser alterado.
 
+O que é escopo?
+O escopo em Javascript define a limitação e visibilidade de um bloco de código. 
 
+Escopo Global - quanto a variável é declarada fora de qualquer bloco, sua visibilidade fica disponivel em todo o código. 
+Escopo Local - quando a variavel é declarada dentro de um bloco, sua visibilidade pode ficar disponivel ou não. 
+
+Regras de Uso de Variáveis
+
+- Iniciar com letras, unerscore_ou cifrão $, Não iniciar com número.
+- Não usar espaços (use o camelCase ou _); 
+- Não usar palavras reservadas; 
+- Declarar variáveis no topo do bloco de código;
+
+ATRIBUIÇÃO
+
+O sinal de igualdade "=" em JavaScript, significa atribuição. 
+
+COMPARAÇÃO
+
+Para fazermos uma comparação de valores em JavaScript usamos "=="; 
+
+COMPARAÇÃO IDÊNTICA 
+Para fazermos uma comparação de valores e tipos em JavaScript usamos "===";
+
+OPERADORES ARITMÉTICOS
+São tipos de operadores matemáticos com valor numérico: 
++adição; 
+-subtração; 
+*multiplicação;
+/divisão real;
+%divisão inteira;
+**potenciação;
+
+OPERADORES RELACIONAIS
+São tipos de operadores que consultam a relação entre valores: 
+>maior que; 
+<menor que;
+>= maior ou igual a;
+<= menor ou igual a;
+
+OPERADORES LÓGICOS
+São tipos de operadores que consultam valores lógicos:
+
+&& - "e" - considera que todos os valores sejam true; 
+|| - "ou" - considera que qualquer valor seja true;
+! - "não" - inverte o valor de true para false ou vice-versa.
+
+O QUE SÃO VETORES OU ARRAYS?
+Arrays são um tipo de lista, ou matriz de vaiáveis, onde cada variável possui um índice. Os valores podem ser de vários tipos. 
+Imagina que um array é uma caixa com várias outras caixas dentro e cada uma contendo algum valor. 
+O array deve ser declarados entre colchetes "[]" e podem guardar qualquer valor dentro de seus índices: inclusive outros arrays.
+OBs.: O índice só é acessado por um número inteiro, onde 0 é o primeiro índice. Cada índice é separado por vírgula. 
+COMO MANIPULAR ARRAYS?
+Ao ser declarado, o Array traz consigo uma série de métodos para manipulá-lo. 
+ForEach() - executa uma função de cada item de um array; 
+push() - add item no final do array;
+pop() - remove item no final do array;
+shift() - remove item no início do array
+unshift() - add item no inicio da array; 
+indexOf() - retorna o índice de um valor. 
+splice() - remove ou substitui um item pelo índice; 
+slice() - retorna uma parte de um array existente;
+
+Objetos 
+Dados que possuem propriedades e valores que definem suas características. Deve ser declarado entre chaves "{}". 
+Como manipular os objetos?
+As propriedades de objetos podem ser atribuídas às variáveis, facilitando a manipulação do objeto. Chamamos isso de desestruturação.
+outra forma de fazer desestruturação de objetos é utilizando chaves.
+O QUE SÃO OBJETOS?
+DESTRUTURANDO OBJETOS
 
 
