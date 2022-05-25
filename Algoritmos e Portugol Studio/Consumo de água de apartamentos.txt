@@ -1,0 +1,38 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real marcacao, maiorMarcacao, metrosCub
+		inteiro cont, numAp
+		cont=1
+		maiorMarcacao=0
+		
+
+		escreva("\nDigite o número de apartamentos: ")
+		leia(numAp)
+
+		enquanto (cont<=numAp) {
+			se (cont==1) {
+				escreva("\nDigite a primeira marcação: ")
+				leia(marcacao)
+				maiorMarcacao=marcacao
+				cont++
+				}
+				escreva("\nDigite a próxima marcação: ")
+				leia(marcacao)
+				se(marcacao>maiorMarcacao) {
+				maiorMarcacao=marcacao
+				}
+				cont++
+
+			}
+
+		se (cont>numAp) {
+		escreva("\nO maior consumo em litros foi de: ", maiorMarcacao)
+		metrosCub=maiorMarcacao/1000
+		escreva(". Isso equivale a: ", metrosCub)
+		escreva(" metros cúbicos.")
+		}
+	}
+}
